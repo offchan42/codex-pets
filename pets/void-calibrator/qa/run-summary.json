@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator",
+  "spritesheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator\\qa\\review.json",
+  "videos": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\void-calibrator\\qa\\videos",
+  "package": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\pets\\void-calibrator"
+}

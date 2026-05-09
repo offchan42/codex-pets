@@ -2,6 +2,7 @@
 .codex_pet_runs/
 runs/
 tmp/
+output/
 
 # OS/editor noise
 Thumbs.db
