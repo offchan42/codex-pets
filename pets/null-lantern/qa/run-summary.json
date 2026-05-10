@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern",
+  "spritesheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern\\qa\\review.json",
+  "videos": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\null-lantern\\qa\\videos",
+  "package": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\pets\\null-lantern"
+}
