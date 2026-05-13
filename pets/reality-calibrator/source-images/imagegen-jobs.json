@@ -1,0 +1,541 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-05-12T14:16:01.402225+00:00",
+  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\output\\hatch-pet\\sublime-calibrator",
+  "primary_generation_skill": "$imagegen",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        }
+      ],
+      "output_path": "decoded/base.png",
+      "depends_on": [],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e11e3-67c5-74b3-a8ba-6a55537bdc4d\\ig_081431c3f8fa017e016a0336411a2881919e84aecac88bc454.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "ae0bbbb3569d442153fb5ab0ef42ea598da819de7c6ff70852d75abee24f1be5",
+      "output_sha256": "ae0bbbb3569d442153fb5ab0ef42ea598da819de7c6ff70852d75abee24f1be5",
+      "completed_at": "2026-05-12T14:19:06.433468+00:00",
+      "metadata": {
+        "width": 1204,
+        "height": 1306,
+        "mode": "RGB",
+        "format": "PNG"
+      },
+      "canonical_reference_path": "references\\canonical-base.png"
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/idle.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/idle.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/idle.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c8f-26b4-7bb2-8a8c-692571c02e72\\ig_09e55b0b8ea84635016a0337a2cd98819189c817ac89d2f547.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "d58849843d753068cc732cab7917a5591745c6c9deebe9157f242e4b25b385a6",
+      "output_sha256": "d58849843d753068cc732cab7917a5591745c6c9deebe9157f242e4b25b385a6",
+      "completed_at": "2026-05-12T14:24:45.481271+00:00",
+      "metadata": {
+        "width": 2086,
+        "height": 754,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-right.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/running-right.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c8f-8571-7a60-a3d6-ddc1eaa00bc3\\ig_0869a47d08923166016a03374f75a881918097339d7c18f01f.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "d6459de10e3d85ced00162426c7e1e9967550c3938dd32ca65aeea914aecfa64",
+      "output_sha256": "d6459de10e3d85ced00162426c7e1e9967550c3938dd32ca65aeea914aecfa64",
+      "completed_at": "2026-05-12T14:24:45.566298+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-left.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        },
+        {
+          "path": "decoded/running-right.png",
+          "role": "rightward gait reference for leftward row decision"
+        }
+      ],
+      "output_path": "decoded/running-left.png",
+      "depends_on": [
+        "base",
+        "running-right"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base",
+        "running-right"
+      ],
+      "mirror_policy": {
+        "may_derive_from": "running-right",
+        "derivation": "horizontal-mirror",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "recording_owner": "parent",
+      "source_path": "decoded\\running-right.png",
+      "source_provenance": "deterministic-mirror",
+      "derived_from": "running-right",
+      "source_sha256": "d6459de10e3d85ced00162426c7e1e9967550c3938dd32ca65aeea914aecfa64",
+      "output_sha256": "a92d8195cd405063fa03e0f73229fd88cf14e02d363851c53f08f158dff32f00",
+      "completed_at": "2026-05-12T14:25:19.956886+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "mirror_decision": {
+        "approved": true,
+        "approved_at": "2026-05-12T14:25:19.956886+00:00",
+        "note": "The pet identity is symmetric enough for directional mirroring: centered crystal, centered forehead eye-dial, no text or logos, no side-specific accessories, and no handed prop semantics."
+      }
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waving.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waving.png",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/waving.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c94-45ae-70d2-88d9-8f10199a27a3\\ig_0f427214d1e77446016a03388f74048191a183c025a77dded4.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "38acbdccd283a643ff9fd32807e2eb7ddcabd3d58e44076ced1948ae2f6b6a04",
+      "output_sha256": "38acbdccd283a643ff9fd32807e2eb7ddcabd3d58e44076ced1948ae2f6b6a04",
+      "completed_at": "2026-05-12T14:29:01.137007+00:00",
+      "metadata": {
+        "width": 1829,
+        "height": 860,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/jumping.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.png",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/jumping.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded\\repair-archive\\jumping-attempt-1-previous.png",
+          "archived_at": "2026-05-12T14:49:17.493601+00:00"
+        }
+      ],
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1caa-4084-74b3-8145-c86462791c90\\ig_0602dcedf1c9621f016a033e2b94908191b87f013c9b9ae434.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "0c64e7684cd85eb67ff598d026cdd2663a2ab43dfb6018df5ec3172d3ba431f3",
+      "output_sha256": "0c64e7684cd85eb67ff598d026cdd2663a2ab43dfb6018df5ec3172d3ba431f3",
+      "completed_at": "2026-05-12T14:52:36.410668+00:00",
+      "metadata": {
+        "width": 1900,
+        "height": 828,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/failed.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/failed.png",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/failed.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "repair_attempt": 1,
+      "previous_outputs": [
+        {
+          "attempt": 1,
+          "path": "decoded\\repair-archive\\failed-attempt-1-previous.png",
+          "archived_at": "2026-05-12T14:41:01.722940+00:00"
+        }
+      ],
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1ca2-efb9-76b2-971a-d5f646a56e1f\\ig_07b6056a74a9de64016a033cc1f01481918d63368abdf61890.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "30aeec58e1876439a7c58622b594dd378802d3ec3a2e95d20dca5b6f1a9fc334",
+      "output_sha256": "30aeec58e1876439a7c58622b594dd378802d3ec3a2e95d20dca5b6f1a9fc334",
+      "completed_at": "2026-05-12T14:47:08.784583+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waiting.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/waiting.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c9a-db65-7b22-9672-7699884f3b1f\\ig_07579fefb9af71b3016a033b3513588191a065041a6b155e1a.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "63c1cb74f4aaefb1abd0f835a11cb9cd262311acdca76d9cbfd186fa2d29ab34",
+      "output_sha256": "63c1cb74f4aaefb1abd0f835a11cb9cd262311acdca76d9cbfd186fa2d29ab34",
+      "completed_at": "2026-05-12T14:39:42.695674+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/running.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c96-606a-7753-8ac9-e495fd2084f7\\ig_0f4abeafb3d9d632016a03391146088191bbb1071147098b57.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "41ede735d988b0cbe84d180399c52bb526960fd6a309a57a72bd0b8383803e1e",
+      "output_sha256": "41ede735d988b0cbe84d180399c52bb526960fd6a309a57a72bd0b8383803e1e",
+      "completed_at": "2026-05-12T14:31:18.888724+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/review.md",
+      "input_images": [
+        {
+          "path": "references\\reference-01.png",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/review.png",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.png",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/base.png",
+          "role": "approved base pet"
+        }
+      ],
+      "output_path": "decoded/review.png",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.png",
+        "decoded/base.png"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "mirror_policy": {},
+      "recording_owner": "parent",
+      "source_path": "C:\\Users\\ASUS\\.codex\\generated_images\\019e1c96-c625-7f21-bd17-fdbb138ef1ba\\ig_0e526a9a24946248016a0339288b4881918f3ed1dfb6512d5b.png",
+      "source_provenance": "built-in-imagegen",
+      "source_sha256": "c53cbe115bb1abfe157de46526f54b66a0f802ad36a89ac56494104ddef62b44",
+      "output_sha256": "c53cbe115bb1abfe157de46526f54b66a0f802ad36a89ac56494104ddef62b44",
+      "completed_at": "2026-05-12T14:32:03.262262+00:00",
+      "metadata": {
+        "width": 2172,
+        "height": 724,
+        "mode": "RGB",
+        "format": "PNG"
+      }
+    }
+  ],
+  "canonical_identity_reference": {
+    "path": "references\\canonical-base.png",
+    "source_job": "base",
+    "sha256": "ae0bbbb3569d442153fb5ab0ef42ea598da819de7c6ff70852d75abee24f1be5",
+    "metadata": {
+      "width": 1204,
+      "height": 1306,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}
