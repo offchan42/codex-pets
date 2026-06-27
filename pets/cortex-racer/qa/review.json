@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22677,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 267
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22958,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22123,
+          "bbox": [
+            5,
+            18,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22552,
+          "bbox": [
+            5,
+            17,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22615,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 278
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22897,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20768,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20525,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21342,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 423
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21312,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22779,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 507
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21551,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 489
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22792,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 454
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20896,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 405
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20896,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 405
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22792,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 454
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21551,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 489
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22779,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 507
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21312,
+          "bbox": [
+            5,
+            21,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 435
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21342,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 423
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20525,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20768,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19537,
+          "bbox": [
+            5,
+            25,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20181,
+          "bbox": [
+            5,
+            25,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 221
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20365,
+          "bbox": [
+            5,
+            16,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19506,
+          "bbox": [
+            5,
+            26,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19768,
+          "bbox": [
+            5,
+            29,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21234,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21584,
+          "bbox": [
+            5,
+            18,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22732,
+          "bbox": [
+            5,
+            14,
+            187,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 329
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19114,
+          "bbox": [
+            5,
+            32,
+            187,
+            175
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19357,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 455
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19151,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 525
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17850,
+          "bbox": [
+            5,
+            35,
+            187,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 457
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16609,
+          "bbox": [
+            5,
+            38,
+            187,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 411
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15796,
+          "bbox": [
+            5,
+            43,
+            187,
+            165
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 416
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15687,
+          "bbox": [
+            5,
+            45,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 486
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13503,
+          "bbox": [
+            5,
+            51,
+            187,
+            157
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 377
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12396,
+          "bbox": [
+            5,
+            56,
+            187,
+            151
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 354
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21641,
+          "bbox": [
+            5,
+            19,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 355
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21538,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 343
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21137,
+          "bbox": [
+            5,
+            20,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21350,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 329
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21602,
+          "bbox": [
+            5,
+            19,
+            187,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 346
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21342,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20192,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19240,
+          "bbox": [
+            5,
+            28,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20677,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20691,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 291
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21433,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20068,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20982,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 315
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21388,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 341
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21136,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21049,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 348
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20821,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\cortex-racer\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21119,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 335
+        }
+      ]
+    }
+  ]
+}

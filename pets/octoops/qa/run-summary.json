@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops",
+  "spritesheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops\\qa\\review.json",
+  "videos": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\octoops\\qa\\videos",
+  "package": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\pets\\octoops"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "cortex-racer",
+  "displayName": "Cortex Racer",
+  "description": "A racecar-brain pet optimized for velocity and competitive cognition.",
+  "spritesheetPath": "spritesheet.webp"
+}

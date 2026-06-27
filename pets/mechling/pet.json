@@ -1,0 +1,6 @@
+{
+  "id": "mechling",
+  "displayName": "Mechling",
+  "description": "A tiny founder-pilot in a compact sprinting mech cockpit.",
+  "spritesheetPath": "spritesheet.webp"
+}

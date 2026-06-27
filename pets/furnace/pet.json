@@ -1,0 +1,6 @@
+{
+  "id": "furnace",
+  "displayName": "Furnace",
+  "description": "An overclocked rocket-furnace engine pet with relentless hot-path urgency.",
+  "spritesheetPath": "spritesheet.webp"
+}

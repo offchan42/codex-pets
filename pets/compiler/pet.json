@@ -1,0 +1,6 @@
+{
+  "id": "compiler",
+  "displayName": "Compiler",
+  "description": "A wiry compiler creature converting chaos into builds while sprinting.",
+  "spritesheetPath": "spritesheet.webp"
+}

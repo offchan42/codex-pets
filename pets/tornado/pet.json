@@ -1,0 +1,6 @@
+{
+  "id": "tornado",
+  "displayName": "Tornado",
+  "description": "A living kanban tornado that turns urgent work into done work.",
+  "spritesheetPath": "spritesheet.webp"
+}

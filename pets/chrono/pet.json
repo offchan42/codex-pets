@@ -1,0 +1,6 @@
+{
+  "id": "chrono",
+  "displayName": "Chrono",
+  "description": "A sentient alarm-clock commander made of deadline pressure.",
+  "spritesheetPath": "spritesheet.webp"
+}
