@@ -1,0 +1,6 @@
+{
+  "id": "task-printer",
+  "displayName": "Task Printer",
+  "description": "A frantic high-throughput printer pet that multiplies tiny human direction into many finished outputs.",
+  "spritesheetPath": "spritesheet.webp"
+}

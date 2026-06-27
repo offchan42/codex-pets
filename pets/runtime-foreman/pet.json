@@ -1,0 +1,6 @@
+{
+  "id": "runtime-foreman",
+  "displayName": "Runtime Foreman",
+  "description": "A frantic runtime operator pet that drives many controls in parallel to turn direction into execution.",
+  "spritesheetPath": "spritesheet.webp"
+}
