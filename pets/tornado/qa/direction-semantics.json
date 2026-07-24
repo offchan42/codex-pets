@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "reviewed_by": ["tornado_row9_repair_qa", "tornado_row10_repair_qa", "tornado_final_visual_qa"],
+  "directions": [
+    {"degree":"000","expected":"up","verdict":"pass","observed":"up","reason":"Both pupils sit unmistakably high in the angular white apertures, leaving clear white below beneath the brows."},
+    {"degree":"022.5","expected":"up-right","verdict":"pass","observed":"up-right","reason":"Pupils remain high while shifting slightly screen-right."},
+    {"degree":"045","expected":"up-right","verdict":"pass","observed":"up-right","reason":"Both pupils occupy the upper-right portions of their apertures."},
+    {"degree":"067.5","expected":"up-right","verdict":"warning","observed":"up-right","reason":"Labeled pupils remain high and far screen-right, but blind vertical votes reversed."},
+    {"degree":"090","expected":"right","verdict":"pass","observed":"right","reason":"Both pupils sit unmistakably at the screen-right sides of the apertures with rightward face yaw."},
+    {"degree":"112.5","expected":"down-right","verdict":"warning","observed":"down-right","reason":"Labeled pupils are screen-right and lower, but blind horizontal and vertical votes reversed."},
+    {"degree":"135","expected":"down-right","verdict":"pass","observed":"down-right","reason":"Both pupils read low-right with visibly more white above."},
+    {"degree":"157.5","expected":"down-right","verdict":"warning","observed":"down-right","reason":"Low pupils retain a right offset and advance toward down, but blind horizontal votes reversed."},
+    {"degree":"180","expected":"down","verdict":"pass","observed":"down","reason":"Both pupils sit low within the angular white apertures, with clear white above."},
+    {"degree":"202.5","expected":"down-left","verdict":"warning","observed":"down-left","reason":"Pupils are low with a subtle screen-left shift, but blind horizontal and vertical votes reversed."},
+    {"degree":"225","expected":"down-left","verdict":"warning","observed":"down-left","reason":"Labeled pupils are low and screen-left, but blind vertical votes reversed."},
+    {"degree":"247.5","expected":"down-left","verdict":"warning","observed":"down-left","reason":"Screen-left aim is strong with a subtle low offset, while blind horizontal and vertical votes reversed."},
+    {"degree":"270","expected":"left","verdict":"pass","observed":"left","reason":"Pupils and angular eye apertures aim unmistakably screen-left with matching face yaw."},
+    {"degree":"292.5","expected":"up-left","verdict":"warning","observed":"up-left","reason":"Screen-left aim is clear with a modest high offset, but blind vertical votes reversed."},
+    {"degree":"315","expected":"up-left","verdict":"warning","observed":"up-left","reason":"Labeled pupils are high and screen-left, but blind vertical votes reversed."},
+    {"degree":"337.5","expected":"up-left","verdict":"warning","observed":"up-left","reason":"Pupils are high with a subtle residual screen-left offset, but blind vertical votes reversed."}
+  ],
+  "warnings": ["067.5 blind vertical mismatch", "112.5 blind axis mismatches", "157.5 blind horizontal mismatch", "202.5 blind axis mismatches", "225 blind vertical mismatch", "247.5 blind axis mismatches", "292.5 blind vertical mismatch", "315 blind vertical mismatch", "337.5 blind vertical mismatch"]
+}

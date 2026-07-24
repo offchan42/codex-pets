@@ -1,0 +1,13 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All nine standard rows and both look rows preserve Tornado's identity and intended semantics, while the cleaned v2 sheet and previews show no crop, forbidden effect, chroma defect, identity drift, or visible loop discontinuity.",
+  "review_warnings": [
+    "Accepted blind intermediate mismatches because labeled normal-size review confirms the intended quadrants and no reversal.",
+    "Transparent-hole flags are intentional open negative space through the vortex and between linked arms and attached props, with no accidental body hole or seam.",
+    "157.5 to 180 diff 7232 is a natural right-down to centered-down face change without a snap.",
+    "292.5 to 315 diff 4445 is a continuous up-left silhouette and eye progression without a registration jump.",
+    "337.5 to 000 diff 6621 and area ratio 1.19 create only a slight wraparound fill change, not a conspicuous scale pop or identity break."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}

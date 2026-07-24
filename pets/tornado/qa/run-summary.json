@@ -1,10 +1,16 @@
 {
   "ok": true,
-  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado",
-  "spritesheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\final\\spritesheet.webp",
-  "validation": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\final\\validation.json",
-  "contact_sheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\qa\\contact-sheet.png",
-  "review": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\qa\\review.json",
-  "videos": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\qa\\videos",
-  "package": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\pets\\tornado"
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2",
+  "spritesheet": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\final\\spritesheet-extended.webp",
+  "validation": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\final\\validation-extended.json",
+  "chroma_despill": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\look-directions.png",
+  "direction_semantics": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\direction-blind-validation.json",
+  "continuity": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\look-continuity.json",
+  "review": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\review.json",
+  "final_visual_qa": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\qa\\final-visual-qa.json",
+  "package": "C:\\Users\\ASUS\\.codex\\pets\\tornado"
 }

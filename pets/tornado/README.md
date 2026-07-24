@@ -2,17 +2,11 @@
 
 A living kanban tornado that turns urgent work into done work.
 
-Package contents:
+This is a Codex pet v2 package with a `1536x2288` RGBA WebP atlas using `192x208` cells.
 
-- `pet.json` - Codex pet manifest.
-- `spritesheet.webp` - Final 1536x1872 RGBA atlas using 192x208 cells.
-- `qa/contact-sheet.png` - Visual row-by-row review sheet.
-- `qa/validation.json` - Atlas validation output.
-- `qa/review.json` - Extracted-frame inspection output.
-- `qa/run-summary.json` - Finalization summary with source run paths.
+- Rows `0-8` preserve the approved legacy standard animations.
+- Rows `9-10` add 16 clockwise look directions from `000 up` through `337.5 up-left`.
+- `spriteVersionNumber: 2` enables the directional contract.
+- The final atlas passed v2 structure, transparency, chroma, blind cardinal, labeled semantic, continuity, and visual QA.
 
-Generation notes:
-
-- `running-left` was derived by mirroring `running-right` after visual approval.
-- `idle`, `running-right`, `waving`, `jumping`, `failed`, `waiting`, `running`, and `review` were generated as grounded row strips.
-- Validation passed with no errors or warnings.
+See `qa/` for the final contact sheet, focused direction sheet, blind-direction result, continuity measurements, despill report, and validation result.

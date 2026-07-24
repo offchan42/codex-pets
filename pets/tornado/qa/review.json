@@ -1,6 +1,17 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames",
+  "frames_root": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21042,
@@ -30,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21085,
@@ -45,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20818,
@@ -60,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20620,
@@ -75,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20837,
@@ -90,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\idle\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\idle\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20903,
@@ -116,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17959,
@@ -131,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17587,
@@ -146,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17116,
@@ -161,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17581,
@@ -176,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17792,
@@ -191,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16996,
@@ -206,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\06.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17184,
@@ -221,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-right\\07.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17986,
@@ -247,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17986,
@@ -262,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17184,
@@ -277,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16996,
@@ -292,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17792,
@@ -307,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17581,
@@ -322,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17116,
@@ -337,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\06.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17587,
@@ -352,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running-left\\07.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running-left\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17959,
@@ -378,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waving\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19532,
@@ -393,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waving\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20049,
@@ -408,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waving\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19763,
@@ -423,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waving\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19447,
@@ -449,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\jumping\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\jumping\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21018,
@@ -464,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\jumping\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\jumping\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20587,
@@ -479,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\jumping\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\jumping\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17516,
@@ -494,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\jumping\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\jumping\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21714,
@@ -509,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\jumping\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\jumping\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23863,
@@ -535,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24342,
@@ -550,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 25140,
@@ -565,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 26479,
@@ -580,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23795,
@@ -595,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 27603,
@@ -610,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 25363,
@@ -625,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\06.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 27636,
@@ -640,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\failed\\07.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 24811,
@@ -666,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19758,
@@ -681,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19365,
@@ -696,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18729,
@@ -711,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19273,
@@ -726,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19419,
@@ -741,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\waiting\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19240,
@@ -767,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21286,
@@ -782,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20633,
@@ -797,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20657,
@@ -812,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20996,
@@ -827,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20177,
@@ -842,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\running\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\running\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19990,
@@ -868,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\00.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17312,
@@ -883,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\01.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17375,
@@ -898,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\02.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17600,
@@ -913,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\03.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17655,
@@ -928,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\04.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17387,
@@ -943,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\tornado\\frames\\review\\05.png",
+          "file": "C:\\Users\\ASUS\\.codex\\worktrees\\26df\\codex-pets\\.codex_pet_runs\\upgrades\\tornado-v2\\frames\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17126,
