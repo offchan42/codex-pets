@@ -1,0 +1,11 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Compiler keeps a consistent pixel-art identity across all standard and look rows, with clean framing and no visible seams, detached effects, or state-breaking motion.",
+  "repair_rows": [],
+  "repair_notes": [],
+  "review_warnings": [
+    "Intermediate direction axes are subtle where recorded in direction-semantics.json.",
+    "Continuity metric outliers do not produce a conspicuous visual snap at normal size.",
+    "Alpha-hole candidates are legitimate separated-part negative space rather than interior seams."
+  ]
+}

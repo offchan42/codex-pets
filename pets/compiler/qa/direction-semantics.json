@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"pupils lifted within both lenses; face horizontally centered","reason":"Unmistakable upward cardinal."},
+    {"direction":"022.5","verdict":"warning","expected":"up-right","observed":"nose and visible lens turn screen-right; pupils and head lift above neutral","reason":"Labeled loop confirms both axes; blind vertical evidence was ambiguous."},
+    {"direction":"045","verdict":"warning","expected":"up-right","observed":"right-facing nose and dominant lens; raised gaze follows the upward-right arc","reason":"Vertical cue is subtle but ordered-loop-consistent."},
+    {"direction":"067.5","verdict":"warning","expected":"up-right","observed":"strong screen-right profile; eyes remain above the down-right poses","reason":"Labeled loop confirms up-right; blind vertical evidence was ambiguous."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"unmistakable screen-right profile and nose with neutral vertical posture","reason":"Right cardinal passes blind and labeled review."},
+    {"direction":"112.5","verdict":"warning","expected":"down-right","observed":"right profile; gaze and head angle lower toward the keyboard","reason":"Labeled loop confirms down-right; blind vertical evidence was ambiguous."},
+    {"direction":"135","verdict":"warning","expected":"down-right","observed":"screen-right profile remains visible and pupils and head lower clearly","reason":"Horizontal blind evidence was ambiguous, but labeled normal-size review confirms the quadrant."},
+    {"direction":"157.5","verdict":"warning","expected":"down-right","observed":"rightward facial turn with the lowest right-facing gaze before down","reason":"Labeled loop confirms the quadrant despite blind ambiguity."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"centered frontal face with pupils and brows distinctly aimed at the keyboard","reason":"Unmistakable downward cardinal."},
+    {"direction":"202.5","verdict":"warning","expected":"down-left","observed":"screen-left facial profile with lowered gaze","reason":"Labeled loop confirms down-left despite blind horizontal ambiguity."},
+    {"direction":"225","verdict":"warning","expected":"down-left","observed":"screen-left nose and profile with a subtle down cue","reason":"Ordered-loop context confirms both axes."},
+    {"direction":"247.5","verdict":"warning","expected":"down-left","observed":"strong screen-left profile with lowered eyes and head","reason":"Labeled loop confirms down-left; blind vertical evidence was ambiguous."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"unmistakable screen-left profile and nose with backpack on image-right","reason":"Left cardinal passes blind and labeled review."},
+    {"direction":"292.5","verdict":"warning","expected":"up-left","observed":"screen-left profile progressing upward toward the frontal up pose","reason":"Upward cue is subtle but loop-continuous."},
+    {"direction":"315","verdict":"warning","expected":"up-left","observed":"leftward face turn with raised gaze","reason":"Labeled loop confirms up-left; blind vertical evidence was ambiguous."},
+    {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"slight screen-left turn with pupils and head lifting toward 000","reason":"Loop context confirms up-left despite blind horizontal ambiguity."}
+  ],
+  "review_warnings": [
+    "Accepted intermediate blind ambiguities; all four cardinals passed.",
+    "157.5->180 and 225->247.5 continuity outliers have no conspicuous visual snap.",
+    "Alpha-hole candidates are legitimate negative space around hair, antenna, glasses, limbs, backpack, and keyboard.",
+    "Directional running slot-extraction warnings are visually clean."
+  ]
+}

@@ -1,10 +1,35 @@
 {
   "ok": true,
-  "run_dir": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler",
-  "spritesheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler\\final\\spritesheet.webp",
-  "validation": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler\\final\\validation.json",
-  "contact_sheet": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler\\qa\\contact-sheet.png",
-  "review": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler\\qa\\review.json",
-  "videos": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\.codex_pet_runs\\frantic-mascots\\runs\\compiler\\qa\\videos",
-  "package": "C:\\Users\\ASUS\\Documents\\Code\\codex-pets\\pets\\compiler"
+  "pet": "compiler",
+  "run": "compiler-v2",
+  "sourceRun": "C:\\Users\\ASUS\\.codex\\worktrees\\4fa7\\codex-pets\\.codex_pet_runs\\compiler-v2",
+  "package": "C:\\Users\\ASUS\\.codex\\worktrees\\4fa7\\codex-pets\\pets\\compiler",
+  "spriteVersionNumber": 2,
+  "validation": {
+    "ok": true,
+    "errors": 0,
+    "warnings": 0,
+    "chromaDespill": true,
+    "transparentResiduePixels": 0
+  },
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "rows": 11,
+    "columns": 8,
+    "lookDirections": 16
+  },
+  "qa": {
+    "blindReviewers": 3,
+    "hardCardinalPairsPassed": true,
+    "finalVisualQa": "pass"
+  },
+  "notes": [
+    "The original nine standard animation rows retain their version-1 source content and timing; version-2 chroma despill removes legacy magenta-key residue from those rows.",
+    "Two look rows add a clockwise 16-direction cycle while retaining the cyan-haired keyboard engineer identity.",
+    "Intermediate-angle cues are intentionally subtler than the four hard cardinals and remain continuous around the loop.",
+    "Final structural validation, chroma despill, blind cardinal review, and independent visual QA passed."
+  ]
 }
