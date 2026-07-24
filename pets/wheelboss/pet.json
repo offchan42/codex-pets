@@ -2,5 +2,6 @@
   "id": "wheelboss",
   "displayName": "Wheelboss",
   "description": "A caffeinated hamster operator powering a tiny deadline command station.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

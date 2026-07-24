@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "reviewer": "independent-final-visual-qa-worker",
+  "directions": [
+    {"direction": "000", "expected": "up", "verdict": "pass", "horizontal_evidence": "centered face", "vertical_evidence": "eyes and head clearly raised", "reason": "unmistakable up cardinal"},
+    {"direction": "022.5", "expected": "up-right", "verdict": "pass", "horizontal_evidence": "pupils and muzzle bias screen-right", "vertical_evidence": "upward eye and head cue", "reason": "labeled normal-size pose retains both intended axes"},
+    {"direction": "045", "expected": "up-right", "verdict": "pass", "horizontal_evidence": "right-facing facial bias", "vertical_evidence": "upward gaze cue", "reason": "upper-right quadrant is readable"},
+    {"direction": "067.5", "expected": "up-right", "verdict": "pass", "horizontal_evidence": "strong screen-right face bias", "vertical_evidence": "upward gaze cue", "reason": "upper-right quadrant is readable"},
+    {"direction": "090", "expected": "right", "verdict": "pass", "horizontal_evidence": "unmistakable screen-right face and pupils", "vertical_evidence": "neutral vertical axis", "reason": "unmistakable right cardinal"},
+    {"direction": "112.5", "expected": "down-right", "verdict": "pass", "horizontal_evidence": "screen-right face bias", "vertical_evidence": "lowered eyes and muzzle", "reason": "lower-right quadrant is readable"},
+    {"direction": "135", "expected": "down-right", "verdict": "pass", "horizontal_evidence": "screen-right facial bias", "vertical_evidence": "clear downward gaze", "reason": "lower-right quadrant is readable"},
+    {"direction": "157.5", "expected": "down-right", "verdict": "pass", "horizontal_evidence": "right-side facial bias", "vertical_evidence": "downward face placement", "reason": "clockwise approach to down remains readable"},
+    {"direction": "180", "expected": "down", "verdict": "pass", "horizontal_evidence": "centered front-readable face", "vertical_evidence": "unmistakable lowered eyes and head", "reason": "unmistakable down cardinal"},
+    {"direction": "202.5", "expected": "down-left", "verdict": "pass", "horizontal_evidence": "screen-left facial bias", "vertical_evidence": "lowered eyes and muzzle", "reason": "labeled normal-size pose retains both intended axes"},
+    {"direction": "225", "expected": "down-left", "verdict": "pass", "horizontal_evidence": "screen-left face bias", "vertical_evidence": "clear downward gaze", "reason": "lower-left quadrant is readable"},
+    {"direction": "247.5", "expected": "down-left", "verdict": "pass", "horizontal_evidence": "screen-left facial bias", "vertical_evidence": "downward face placement", "reason": "lower-left quadrant is readable"},
+    {"direction": "270", "expected": "left", "verdict": "pass", "horizontal_evidence": "unmistakable screen-left face and pupils", "vertical_evidence": "neutral vertical axis", "reason": "unmistakable left cardinal"},
+    {"direction": "292.5", "expected": "up-left", "verdict": "pass", "horizontal_evidence": "screen-left facial bias", "vertical_evidence": "upward eye and head cue", "reason": "labeled normal-size pose retains both intended axes"},
+    {"direction": "315", "expected": "up-left", "verdict": "pass", "horizontal_evidence": "screen-left face bias", "vertical_evidence": "clear upward gaze", "reason": "upper-left quadrant is readable"},
+    {"direction": "337.5", "expected": "up-left", "verdict": "pass", "horizontal_evidence": "screen-left facial bias", "vertical_evidence": "upward gaze cue", "reason": "clockwise approach to up remains readable"}
+  ],
+  "review_warnings": [
+    "Intermediate blind-review uncertainty and mismatches are accepted because labeled normal-size poses retain the intended axes and clockwise order.",
+    "Continuity metric outliers at 157.5 to 180 and 337.5 to 000 are accepted because no conspicuous visual snap or identity change is visible.",
+    "Alpha-hole diagnostics are intentional negative space in Wheelboss's open wheel and machinery."
+  ]
+}
