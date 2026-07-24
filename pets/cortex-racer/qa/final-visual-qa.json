@@ -1,0 +1,10 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Rows 0-8 retain Cortex Racer identity and readable state motion, while the repaired 16-pose look loop keeps its quadrants and has no conspicuous transition snap.",
+  "review_warnings": [
+    "Accepted intermediate blind disagreements after labeled-loop review.",
+    "Accepted continuity metric warnings at 157.5->180 and 337.5->000 because the normal-size loop shows no pop or registration jump."
+  ],
+  "repair_rows": [],
+  "repair_notes": null
+}

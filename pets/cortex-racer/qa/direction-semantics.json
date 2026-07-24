@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa-worker",
+  "reviewed_at_normal_size": true,
+  "directions": [
+    {"degree": "000", "expected": "up", "verdict": "pass", "observed": {"horizontal": "centered pupils", "vertical": "both pupils and lifted lids read upward"}, "reason": "Unmistakable up cardinal."},
+    {"degree": "022.5", "expected": "up-right", "verdict": "pass", "observed": {"horizontal": "pupils shift screen-right", "vertical": "raised pupils and lids retain the up cue"}, "reason": "Both axes are readable and progress one step from 000."},
+    {"degree": "045", "expected": "up-right", "verdict": "warning", "observed": {"horizontal": "rightward pupil and brow progression remains visible", "vertical": "lifted pupils retain the up cue"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "067.5", "expected": "up-right", "verdict": "warning", "observed": {"horizontal": "rightward eye placement continues toward 090", "vertical": "upper-lid lift remains visible"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "090", "expected": "right", "verdict": "pass", "observed": {"horizontal": "pupils and fascia attention are unmistakably screen-right", "vertical": "neutral"}, "reason": "Unmistakable screen-right cardinal."},
+    {"degree": "112.5", "expected": "down-right", "verdict": "warning", "observed": {"horizontal": "pupils remain screen-right of center", "vertical": "lowered pupils and lids read down"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "135", "expected": "down-right", "verdict": "warning", "observed": {"horizontal": "rightward gaze continues without reversal", "vertical": "lowered lids and pupils read down"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "157.5", "expected": "down-right", "verdict": "warning", "observed": {"horizontal": "rightward gaze remains visible", "vertical": "down cue holds"}, "reason": "The step into 180 has no visible registration pop; accepted despite blind disagreement."},
+    {"degree": "180", "expected": "down", "verdict": "pass", "observed": {"horizontal": "centered pupils", "vertical": "both pupils and lowered lids unmistakably read down"}, "reason": "Unmistakable down cardinal."},
+    {"degree": "202.5", "expected": "down-left", "verdict": "warning", "observed": {"horizontal": "pupils progress screen-left", "vertical": "lowered pupils and lids retain the down cue"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "225", "expected": "down-left", "verdict": "warning", "observed": {"horizontal": "leftward eye placement continues toward 270", "vertical": "down cue remains visible"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "247.5", "expected": "down-left", "verdict": "warning", "observed": {"horizontal": "pupils remain screen-left", "vertical": "lowered lids and pupils retain the down cue"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "270", "expected": "left", "verdict": "pass", "observed": {"horizontal": "pupils and fascia attention are unmistakably screen-left", "vertical": "neutral"}, "reason": "Unmistakable screen-left cardinal."},
+    {"degree": "292.5", "expected": "up-left", "verdict": "pass", "observed": {"horizontal": "pupils move screen-left from 270", "vertical": "upper pupil and lid placement restores the up cue"}, "reason": "Both axes are readable in labeled loop context."},
+    {"degree": "315", "expected": "up-left", "verdict": "warning", "observed": {"horizontal": "leftward eye placement continues toward 337.5", "vertical": "lifted pupils retain the up cue"}, "reason": "Accepted after labeled-loop review despite blind disagreement."},
+    {"degree": "337.5", "expected": "up-left", "verdict": "pass", "observed": {"horizontal": "pupils remain screen-left", "vertical": "upper pupil and lid placement reads up"}, "reason": "Returns smoothly to 000 without a visible pop."}
+  ],
+  "review_warnings": [
+    "Intermediate blind disagreements at 045, 067.5, 112.5, 135, 157.5, 202.5, 225, 247.5, and 315 were accepted after labeled-loop review.",
+    "Continuity metric warnings at 157.5->180 and 337.5->000, including the 1.16 area ratio, were accepted because the normal-size loop shows no visible pop or registration jump."
+  ]
+}

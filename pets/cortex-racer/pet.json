@@ -2,5 +2,6 @@
   "id": "cortex-racer",
   "displayName": "Cortex Racer",
   "description": "A racecar-brain pet optimized for velocity and competitive cognition.",
+  "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
